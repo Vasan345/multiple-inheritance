@@ -1,0 +1,12 @@
+interface bank{
+    void calculate interest();
+}
+class s&I implements bank{
+    double r,amt,(interest)
+    void calclate(interest)
+    {
+        r=0.1;amt=10,0000;
+        interest=amt*r;
+        system.out.println("interest="+interest);
+    }
+}
